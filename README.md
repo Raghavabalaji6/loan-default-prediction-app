@@ -4,7 +4,7 @@ This project predicts whether a loan applicant is likely to default using a Mach
 
 ⚠️ Disclaimer: This project is for educational and portfolio purposes only, not for real financial decision-making.
 
-🚀 Live Demo
+🚀 Live Demo :https://loan-default-prediction-app-p5zoqxo9h4zhebkmmcfzjc.streamlit.app/
 
 🔗 Deployed App: (Add your Streamlit Cloud URL here after deployment)
 
